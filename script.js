@@ -16,7 +16,7 @@ function vars(){
 
 function links(){
     logo.onclick = function(){
-        window.open("index.html","_parent");
+        window.open("https://sabinphuyal.github.io/Sabin-Gameplay/","_parent");
     };
 
     youtube.onclick = function(){
