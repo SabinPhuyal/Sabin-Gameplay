@@ -16,7 +16,7 @@ function vars(){
 
 function links(){
     logo.onclick = function(){
-        window.open("INDEX.html","_parent");
+        window.open("index.html","_parent");
     };
 
     youtube.onclick = function(){
