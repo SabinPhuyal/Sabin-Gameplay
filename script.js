@@ -60,11 +60,11 @@ function links(){
     };
 
     line_c.onclick = function(){
-        window.open("updates/update_01.html");
+        window.open("update_01.html");
     };
 
     down.onclick = function(){
-        window.open("updates/update_01.html");
+        window.open("update_01.html");
     };
 }
 
