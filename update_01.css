@@ -6,6 +6,22 @@ body{
         lavender
     );
 
-    color : black;
+    color : yellow;
     font-family : cursive;
+    font-size : 20px;
 }
+
+#gta5{
+    width : 200px;
+    position : absolute;
+    top : 150px;
+    left : 550px;
+}
+
+#minecraft{
+    width : 1300px;
+    position : absolute;
+    top : 330px;
+    left : 7px;
+}
+
